@@ -80,23 +80,6 @@ A file encryption and decryption system using a symmetric key approach implement
 - Python 3.x with development headers
 - make
 
-### Building
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/system-programming-toolkit.git
-cd system-programming-toolkit
-
-# Build all components
-make all
-
-# Or build individual components
-make disassembler
-make calculator
-make sysmonitor
-make encryption
-```
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
