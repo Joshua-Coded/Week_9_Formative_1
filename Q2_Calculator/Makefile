@@ -4,7 +4,7 @@
 ASM = nasm
 ASMFLAGS = -f elf64
 CC = gcc
-LDFLAGS = 
+LDFLAGS = -no-pie  # Added -no-pie to fix linking issues
 
 # Directories
 SRC_DIR = src
